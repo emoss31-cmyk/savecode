@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw/w8AAAAAAAAAAACfIg8AAAD//wDw/w+f/wAAAPCI+ADf3f2Zmf///4+IDwDf0f2ZmZmZ+Yj4AADf3fKZmZmZ+YgPAADf3fKZmZmZ+YgPAADf0f2ZmZmZ+Yj4AADf3f2Zmf///4+IDwDw/w+f/wAAAPCI+AAAAACfIg8AAAD//wAAAADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Daryl"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
